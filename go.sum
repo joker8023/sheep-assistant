@@ -1,0 +1,4 @@
+github.com/go-juno/kit v0.1.5 h1:Ph89gtQGOqHPPiNcNT4H30wdqqz55bA/D9wUlVToCXg=
+github.com/go-juno/kit v0.1.5/go.mod h1:IYVVLChmDmWwWJbuNSA5rTIQiEqbHPLkFMcd9IvPDbA=
+golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 h1:H2TDz8ibqkAF6YGhCdN3jS9O0/s90v0rJh3X/OLHEUk=
+golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2/go.mod h1:K8+ghG5WaK9qNqU5K3HdILfMLy1f3aNYFI/wnl100a8=
